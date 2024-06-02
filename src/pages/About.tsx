@@ -51,7 +51,7 @@ const About = () => {
         about building user-friendly and performant web applications
         using modern frameworks like Next.js and React. My experience
         also encompasses building APIs and data management solutions,
-        making me a well-rounded developer** capable of tackling diverse
+        making me a well-rounded developer capable of tackling diverse
         project needs.
       </p>
       <br />
